@@ -8,4 +8,6 @@ public class Greeter {
         }
         return "Hello, " + name + "!";
     }
+
+    public String farewell() { return "Goodbye!"; }
 }
